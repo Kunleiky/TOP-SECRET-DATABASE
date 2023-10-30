@@ -3,4 +3,4 @@ In this repository can be found an SQL project on top secret database containing
 
 ![TPS](secret.jpg)
 
-![secret2](TOP-SECRET-DATABASE//TOP SECRET//secret2.jpg)
+![secret2](secret2.jpg)
